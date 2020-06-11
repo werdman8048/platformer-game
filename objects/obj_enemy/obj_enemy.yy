@@ -33,7 +33,7 @@
             "mvc": "1.0",
             "objectId": "6e8ea2fe-2953-4ef6-93f4-26274dc2dada",
             "propertyId": "507c477f-5d28-44b3-821f-a5a705504af3",
-            "value": "spr_enemy_walk"
+            "value": "spr_enemy_dead"
         },
         {
             "id": "218494e3-b9ef-457a-b4f0-7406762e4ece",
